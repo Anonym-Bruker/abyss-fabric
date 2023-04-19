@@ -19,7 +19,9 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.abyss.ExampleMod"
+    ], "client": [
+      "net.abyss.AbyssClientEntryPoint"
     ]
   },
   "mixins": [
