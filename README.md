@@ -11,6 +11,12 @@ First start server
 Then start client.
 I start this from IntelliJ, else run ./gradlew.bat runClient
 
+## Commands
+How to fly:
+- Turn on(and off) flying by pushing: keyBindingFly = U
+- Fly up: keyBindingUp = R
+- Fly down: keyBindingDown = Z
+- Teleport: keyBindingTeleport = O
 
 ## License
 
